@@ -29,20 +29,13 @@ public class pull {
 			document = Jsoup.connect("https://trends24.in/india/").userAgent("Mozilla/17.0").get();
 			
 			Element cls = document.select("div.trend-card").get(n); 
-			//Elements c1= cls.select("div.trend-card");
 			Elements c2= cls.select("a[href]");
-			//Elements tweets=c1.select("div.tweet-count");
-			//System.out.println("  Title: " + tweets);
-			//System.out.println("  abc " + c2);
 			int k=1;
-			for(int i=0;i<10;i++)System.out.println((k++)+" " + c2.get(i).text());
-				
-			//System.out.println("  Title: " + cls);
-			//System.out.println("  abc " + c1);
-			
+			for(int i=0;i<10;i++)System.out.println((k++)+" " + c2.get(i).text());			
 			
 
-		} catch (IOException e) {
+		}
+		catch (IOException e) {
 			e.printStackTrace();
 		}
 	
