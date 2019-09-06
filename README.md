@@ -4,9 +4,9 @@ This is a code that pulls and displays the trending hashtags from https://trends
 
 Download
 
-Download the code and jar library needed to run the program.[here](https://github.com/SoumyaKB96/hashtag/archive/master.zip
+Download the code and jar library needed to run the program [here](https://github.com/SoumyaKB96/hashtag/archive/master.zip
 )
-https://github.com/SoumyaKB96/hashtag/archive/master.zip
+
 
 
 Instructions
