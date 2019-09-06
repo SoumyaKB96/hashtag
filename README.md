@@ -23,6 +23,7 @@ For terminal
 
 Execute the following commands.
 javac -cp /path/to/jar/file Myprogram.java
+
 java -cp .:/path/to/jar/file Myprogram
 
 
