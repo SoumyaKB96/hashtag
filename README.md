@@ -22,9 +22,7 @@ Open NetBeans and right-click on the project name in the Projects tab. Select Pr
 For terminal
 
 Execute the following commands.
-
 javac -cp /path/to/jar/file Myprogram.java
-
 java -cp .:/path/to/jar/file Myprogram
 
 
