@@ -1,15 +1,17 @@
- Trending Hashtag 
+ # Trending Hashtag 
  
 This is a code that pulls and displays the trending hashtags from https://trends24.in/india/ for the current hour. This was designed using a external library called Jsoup  in Eclipse IDE.
+jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+Visit the site [here](https://jsoup.org/) 
 
- Download 
+# Download 
 
 Download the code and jar library needed to run the program [here](https://github.com/SoumyaKB96/hashtag/archive/master.zip
 )
 
 
 
-Instructions 
+# Instructions 
 
 
 For eclipse users 
