@@ -14,7 +14,8 @@ Download the code and jar library needed to run the program [here](https://githu
 
 # Instructions 
 
-You have to first add the jsoup libray to the package or the project (depending on your user evironment), and then execute the code for it to work properly.
+You have to first add the jsoup libray to the package or the project (depending on your user evironment), and then execute the code for it to work properly. Extract the zip file. __pull.java__ being the code and __jsoup-1.12.1.jar__ being the dependency file. 
+
 
 ### For eclipse users 
 
@@ -24,17 +25,21 @@ Selecting the Project tab at the top of the screen, and click Properties. Select
 
 Open NetBeans and right-click on the project name in the Projects tab. Select Properties.  Libraries. Click the Add Jar/Folder button. Navigate to the directory where the downloaded JAR files are
 
-### For terminal
+### For terminal users
 
 Execute the following commands.
 
 Add the library into the code using the following code.
 
-__javac -cp /path/to/jar/file Myprogram.java__
+eg. javac -cp /path/to/jar/file Myprogram.java or 
+java -cp .:/path/to/jar/file Myprogram
 
-Execute the program
+__javac -cp/C:\Users\lenovo\Downloads\hashtag-master\jsoup-1.12.1 pull.java__ or 
+__javac -cp.:/C:\Users\lenovo\Downloads\hashtag-master\jsoup-1.12.1 pull.java__
 
-__java -cp .:/path/to/jar/file Myprogram__
+
+
+
 
 # ScreenShots
 
