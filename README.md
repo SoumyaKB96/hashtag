@@ -28,9 +28,13 @@ Open NetBeans and right-click on the project name in the Projects tab. Select Pr
 
 Execute the following commands.
 
-javac -cp /path/to/jar/file Myprogram.java
+Add the library into the code using the following code.
 
-java -cp .:/path/to/jar/file Myprogram
+__javac -cp /path/to/jar/file Myprogram.java__
+
+Execute the program
+
+__java -cp .:/path/to/jar/file Myprogram__
 
 # ScreenShots
 
