@@ -14,7 +14,7 @@ Download the code and jar library needed to run the program [here](https://githu
 
 # Instructions 
 
-You have to first add the jsoup libray to the package or the project (depending on your user evironment for the code to work), and then execute the code for it to work properly.
+You have to first add the jsoup libray to the package or the project (depending on your user evironment), and then execute the code for it to work properly.
 
 ### For eclipse users 
 
@@ -33,6 +33,9 @@ javac -cp /path/to/jar/file Myprogram.java
 java -cp .:/path/to/jar/file Myprogram
 
 # ScreenShots
+
+![Image of add1](https://photos.google.com/photo/AF1QipMR46Q1qUsX05p04OP2e5X4z7IDOQBTJYBAIeVD)
+
 
 
 
