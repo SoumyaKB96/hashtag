@@ -31,11 +31,19 @@ Execute the following commands.
 
 Add the library into the code using the following code.
 
-eg. javac -cp /path/to/jar/file Myprogram.java or 
+eg. javac -cp /path/to/jar/file Myprogram.java 
+
+or 
+
 java -cp .:/path/to/jar/file Myprogram
 
-__javac -cp/C:\Users\lenovo\Downloads\hashtag-master\jsoup-1.12.1 pull.java__ or 
+__javac -cp/C:\Users\lenovo\Downloads\hashtag-master\jsoup-1.12.1 pull.java__ 
+
+or 
+
 __javac -cp.:/C:\Users\lenovo\Downloads\hashtag-master\jsoup-1.12.1 pull.java__
+
+(I extracted the zip files to the download folder so for me I had to navigate to the downloads folder. It can extraxted it to any other folder, navigate there and enter the file path to the jar file to add it.)
 
 
 
