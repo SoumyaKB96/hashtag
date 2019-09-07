@@ -15,15 +15,15 @@ Download the code and jar library needed to run the program [here](https://githu
 # Instructions 
 
 
-For eclipse users 
+### For eclipse users 
 
 Selecting the Project tab at the top of the screen, and click Properties. Select Java Build Path followed by the Libraries tab. Click the Add JARs… button and select your JAR file from within the lib folder
 
-For Netbeans 
+###For Netbeans 
 
 Open NetBeans and right-click on the project name in the Projects tab. Select Properties.  Libraries. Click the Add Jar/Folder button. Navigate to the directory where the downloaded JAR files are
 
-For terminal
+### For terminal
 
 Execute the following commands.
 
