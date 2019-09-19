@@ -31,8 +31,9 @@ java -jar trendingHashtag.jar
 
 # ScreenShots
 
-![Screenshot (28)](https://user-images.githubusercontent.com/42297139/65244720-cb631380-db08-11e9-8a6a-cdc90e345706.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/42297139/65244723-cb631380-db08-11e9-9a76-d0f06152f22a.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/42297139/65244720-cb631380-db08-11e9-8a6a-cdc90e345706.png)
 
 
 
